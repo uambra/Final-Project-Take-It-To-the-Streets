@@ -1,12 +1,12 @@
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{line-height:150%;margin:0}
 .sidebar {
     background-color: #976464;
-    color: #ffffff;
-    width: 30%;
+    color: #FFFFFF;
+    width: 35%;
     padding: 20px;
-    margin: 30px;
+    margin: 10px;
     border: 10px solid #976464;
-    border-radius: 10px;
+    border-radius: 12px;
     float: right;
 }
 
@@ -46,18 +46,18 @@ main{
 body{
   text-size-adjust: 2%;
   font-family: 'Georgia', serif;
-  font-size: 1.5em;
+  font-size: 1.25em;
   line-height: 145%
 }
 
 .nav-bar a:link,
 .nav-bar a:visited,
 .nav-bar a:focus {
-  background: #3c2b29;
+  background: #FF7433;
 }
 
 .nav-bar a:hover {
-  background: #9a9c9b;
+  background: #FFB233;
 }
 
 .nav-bar a:active {
@@ -68,9 +68,24 @@ body{
 a:link,
 a:visited,
 a:focus {
-  color : #3c2b29;
+  color : #FFB233;
+  font-size: 1em;
 }
 
 a:hover {
-  background: #9a9c9b;
+  background: #FFB233;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
 }
