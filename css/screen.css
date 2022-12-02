@@ -54,7 +54,7 @@ body{
 .nav-bar a:link,
 .nav-bar a:visited,
 .nav-bar a:focus {
-  background: #322621;
+  background: black;
 }
 
 .nav-bar a:hover {
@@ -69,7 +69,7 @@ body{
 a:link,
 a:visited,
 a:focus {
-  color : #322621;
+  color : black;
   font-size: 1em;
 }
 
