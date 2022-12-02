@@ -48,12 +48,13 @@ body{
   font-family: 'Georgia', serif;
   font-size: 1.25em;
   line-height: 145%
+  background-color: #f2e1e1
 }
 
 .nav-bar a:link,
 .nav-bar a:visited,
 .nav-bar a:focus {
-  background: #FF7433;
+  background: #322621;
 }
 
 .nav-bar a:hover {
@@ -68,7 +69,7 @@ body{
 a:link,
 a:visited,
 a:focus {
-  color : #FFB233;
+  color : #322621;
   font-size: 1em;
 }
 
