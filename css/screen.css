@@ -1,4 +1,5 @@
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{line-height:150%;margin:0}
+background-color: #f2e1e1
 .sidebar {
     background-color: #976464;
     color: #FFFFFF;
@@ -48,7 +49,6 @@ body{
   font-family: 'Georgia', serif;
   font-size: 1.25em;
   line-height: 145%
-  background: #f2e1e1;
 }
 
 .nav-bar a:link,
