@@ -48,7 +48,7 @@ body{
   font-family: 'Georgia', serif;
   font-size: 1.25em;
   line-height: 145%
-  background-color: #f2e1e1
+  background: #f2e1e1;
 }
 
 .nav-bar a:link,
